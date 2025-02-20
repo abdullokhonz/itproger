@@ -1,9 +1,5 @@
 # Ignore secret environment variables
-<<<<<<< HEAD
-itproger/.env
-=======
 .env
->>>>>>> 2029863d0b8896f086b4c2f7d74416e60b687ccf
 
 # Ignore Python cache files
 *.pyc
@@ -11,3 +7,6 @@ __pycache__/
 
 # Ignore the virtual environment directory (if used)
 venv/
+
+# Ignore the JetBrains IDE project files
+.idea/
